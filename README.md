@@ -1,6 +1,6 @@
 # LLM-based OCR Project
 
-This Python script performs OCR (Optical Character Recognition) on images and PDFs using Large Language Models (LLMs). It currently supports OpenAI's GPT-4 Vision and Google's Gemini Pro Vision models.
+This Python script performs OCR (Optical Character Recognition) on images and PDFs using Large Language Models (LLMs). It can use any OpenAI or Google's Gemini models.
 
 ## Prerequisites
 
